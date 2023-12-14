@@ -30,7 +30,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-![Leandro's Github stats](https://github-readme-stats.vercel.app/api?username=leandroBerlin&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=leandroBerlin&show_icons=true&count_private=true)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroBerlin&size_weight=0.3&count_weight=0.7&langs_count=20&layout=compact&hide_progress=true)
+
 
 <!--
 **LeandroDCI/LeandroDCI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
